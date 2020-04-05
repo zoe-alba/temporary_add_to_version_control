@@ -1,0 +1,10 @@
+]0;~/Desktop/temporary_add_to_version_control[?1034hMacBook-Air-de-Admin-5:temporary_add_to_version_control zoegatineau$ [KMacBook-Air-de-Admin-5:temporary_add_to_version_control zoegatineau$ cd ~/dir/name/of/path/to/file
+bash: cd: /Users/zoegatineau/dir/name/of/path/to/file: No such file or directory
+git init
+Initialized empty Git repository in /Users/zoegatineau/Desktop/temporary_add_to_version_control/.git/
+]0;~/Desktop/temporary_add_to_version_controlMacBook-Air-de-Admin-5:temporary_add_to_version_control zoegatineau$ gid aa[Kdd
+bash: gid: command not found
+]0;~/Desktop/temporary_add_to_version_controlMacBook-Air-de-Admin-5:temporary_add_to_version_control zoegatineau$ go[Kit add /[K.
+]0;~/Desktop/temporary_add_to_version_controlMacBook-Air-de-Admin-5:temporary_add_to_version_control zoegatineau$ git init
+Reinitialized existing Git repository in /Users/zoegatineau/Desktop/temporary_add_to_version_control/.git/
+]0;~/Desktop/temporary_add_to_version_controlMacBook-Air-de-Admin-5:temporary_add_to_version_control zoegatineau$ fit[K[K[Kgid[Kt add /[K.
